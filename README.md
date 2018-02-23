@@ -1,6 +1,6 @@
-# ej2-ng-grid-detailrow-editing
+# ej2-ng-grids-column-validation
 
-Detail Grid editing with custom dialog model
+Essential JavaScript 2 Angular Grid for column validation
 
 ## Installing
 
